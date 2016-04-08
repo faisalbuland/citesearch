@@ -1,0 +1,1 @@
+An iGoogle widget for aggregating search results from various sources like Citeseer, DBLP, Google Scholar etc.
